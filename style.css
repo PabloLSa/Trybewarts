@@ -42,3 +42,19 @@ footer {
   height: 40px;
   margin-top: 30px;
 }
+
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}

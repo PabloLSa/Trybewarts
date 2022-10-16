@@ -23,3 +23,22 @@ body {
   color: white;
   font-size: 3em;
 }
+
+#submit-btn {
+    display: block;
+    background-color: rgb(77, 14, 119);
+    border-radius: 10px;
+    width: 40%;
+    color: white;
+    height: 35px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.699);
+    color:white;
+    height: 40px;
+    margin-top: 30px;
+}

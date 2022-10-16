@@ -46,7 +46,6 @@ footer {
 main {
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 #evaluation-form {
@@ -56,5 +55,6 @@ main {
 }
 
 #trybewarts-forms-logo {
+  display: flex;
   height: 500px;
-}
+} 

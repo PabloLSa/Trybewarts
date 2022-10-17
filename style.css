@@ -61,6 +61,14 @@ main {
   height: 500px;
 }
 
-#div-house {
-  width: 427px;
+fieldset {
+  padding: 16px;
+  margin-right: 20px;
 }
+
+#formularioAvaliação {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+

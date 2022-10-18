@@ -62,13 +62,20 @@ main {
 }
 
 fieldset {
-  padding: 16px;
-  margin-right: 20px;
+  width: 50%;
+  padding: 80px;
+  margin-right: 50px;
+
 }
 
 #formularioAvaliação {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 16px;
+}
+
+#conteudo {
+  flex-direction: column;
+
 }
 

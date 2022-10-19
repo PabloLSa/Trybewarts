@@ -1,5 +1,8 @@
 body {
   margin: 0;
+  background-image: url('/sd-027-b-project-trybewarts/images/trybewarts-colored.svg');
+  background-size: 15%;
+
 }
 
 .header {
@@ -65,13 +68,15 @@ fieldset {
   width: 50%;
   padding: 50px;
   margin-right: 50px;
-
+  border-radius: 10px;
+  border: 1px solid color gray;
 }
 
 #formularioAvaliação {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 16px;
+  gap: 25px;
+  color: black;
 }
 
 #conteudo {
@@ -84,7 +89,26 @@ fieldset {
 
 }
 
-#comentario {
+#textarea {
   resize: none;
+  opacity: 80%;
+
+}
+
+#sobre {
+  position: relative;
+}
+
+
+#sobre div {
+  position: absolute;
+  right: 0;
+  left: 0;
+  transform: translate(60%, 10%);
+
+}
+
+#label-rate {
+  color: blue;
 
 }

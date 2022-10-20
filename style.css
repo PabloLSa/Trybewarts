@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  background-image: url('/sd-027-b-project-trybewarts/images/trybewarts-colored.svg');
-  background-size: 15%;
+  background-image: url('https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2010/11/Hogwarts.jpeg');
+  background-size: cover;
 
 }
 
@@ -10,6 +10,7 @@ body {
   background-color: rgb(50, 167, 145);
   justify-content: space-between;
   align-items: center;
+  opacity: 30%;
 }
 
 .trybewarts-header-logo {
@@ -69,7 +70,7 @@ fieldset {
   padding: 50px;
   margin-right: 50px;
   border-radius: 10px;
-  border: 1px solid color gray;
+  border: 1px solid color black;
 }
 
 #formularioAvaliação {
@@ -77,6 +78,12 @@ fieldset {
   grid-template-columns: 1fr 1fr;
   gap: 25px;
   color: black;
+}
+
+#legenda {
+  color: white;
+
+
 }
 
 #conteudo {
@@ -91,8 +98,12 @@ fieldset {
 
 #textarea {
   resize: none;
-  opacity: 80%;
+  opacity: 50%;
+  width: 100%;
+}
 
+#text {
+  color: white;
 }
 
 #sobre {
@@ -100,15 +111,21 @@ fieldset {
 }
 
 
-#sobre div {
+#sobre span {
   position: absolute;
+  bottom: 0;
   right: 0;
-  left: 0;
-  transform: translate(60%, 10%);
+  left: -1;
+  transform: translate(-40%, -50%);
 
 }
 
 #label-rate {
-  color: blue;
+  color: white;
+
+}
+
+#label-infos {
+  color: black;
 
 }

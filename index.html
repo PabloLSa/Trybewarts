@@ -10,6 +10,7 @@
 </head>
 
 <body>
+
   <header class="header">
     <img class="trybewarts-header-logo" src="images/trybewarts-header-logo.svg" alt="trybewarts-header-logo">
     <h1 id="trybewarts-header-title">Trybewarts</h1>
@@ -27,7 +28,6 @@
         <section id="formularioAvaliação">
           <input id="input-name" type="text" placeholder="Nome">
           <input id="input-lastname" type="text" placeholder="Sobrenome">
-
 
           <input id="input-email" type='email' placeholder="Email">
           <select name="" id="house">
@@ -60,7 +60,8 @@
           <input class="subject" type="checkbox" name="" value="Python" id="">Python
         </section>
         <br>
-        <label id="label-rate" for="">Como você avalia a Trybewarts?</label>
+        
+        <strong> <label id="label-rate" for="">Como você avalia a Trybewarts?</label></strong>
         <br>
         <input type="radio" value="1" name="rate" id="">1
         <input type="radio" value="2" name="rate" id="">2
@@ -73,9 +74,13 @@
         <input type="radio" value="9" name="rate" id="">9
         <input type="radio" value="10" name="rate" id="">10
         <br>
+        <section id="sobre">
         <label class="textarea" for="">Deixe seu comentário:</label>
-        <textarea id="textarea"  name="comentario" cols="30" maxlength="500" rows="10"></textarea>
-        <div id="counter">500/500</div>
+
+        <textarea placeholder="500 caracteres" id="textarea" name="comentario" cols="30" maxlength="500" rows="10"></textarea>
+        <div id="counter">(500)</div>
+        </section>
+
         <br>
 
         <label id="label-infos">Você concorda com o uso das informações acima?

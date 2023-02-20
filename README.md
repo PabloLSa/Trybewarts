@@ -22,3 +22,5 @@ A função perfil() exibe os dados inseridos no formulário em uma área especí
 Utilização
 
 Para utilizar este código, basta adicioná-lo a uma página HTML. Ele utiliza os elementos HTML existentes na página para exibir os resultados, e adiciona event listeners para os botões e campos de formulário.
+
+![logo](/home/pablo/Trybe/MeusProjetos/Trybewarts/Trybewarts/images/trybewarts-colored.svg)

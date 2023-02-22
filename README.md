@@ -2,6 +2,8 @@
 README
 Descrição
 
+Esta apliacação fizemos em dupla, além de ser meu primneiro passo conexão Git com outrao desenvolevdor no mesmo código, foi excelente o momento soft-skills!
+
 Este código implementa um formulário de cadastro de perfil com a validação de um checkbox, um contador de caracteres de um campo de comentário e exibição dos dados do formulário preenchido.
 
 Funcionalidades

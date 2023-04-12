@@ -1,5 +1,7 @@
 # Trybewarts
-README
+
+Esse foi a primeira vez que cofidifiquei com outra pessoa, foi muito legal a conexão Github com outro desenvolvedor e o Marcelo é sensacional também, foi um prazer conehcer ele!!
+
 Descrição
 
 Este código implementa um formulário de cadastro de perfil com a validação de um checkbox, um contador de caracteres de um campo de comentário e exibição dos dados do formulário preenchido.

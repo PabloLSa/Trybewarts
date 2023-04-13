@@ -1,6 +1,6 @@
 # Trybewarts
 
-Esse foi a primeira vez que cofidifiquei com outra pessoa, foi muito legal a conexão Github com outro desenvolvedor e o Marcelo é sensacional também, foi um prazer conehcer ele!!
+Esse foi a primeira vez que cofidifiquei com outra pessoa, foi muito legal a conexão Github com outro desenvolvedor e o Marcelo é sensacional também, foi um prazer conhecer ele!!
 
 Descrição
 
